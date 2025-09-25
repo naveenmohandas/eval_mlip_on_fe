@@ -1,0 +1,13 @@
+run_files
+*pycache*
+output
+testing*
+jobfile*
+*.o*
+*.log*
+*.yaml
+out_files
+tmp
+.DS_Store
+test*
+._*
